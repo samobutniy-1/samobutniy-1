@@ -41,7 +41,7 @@ that stay solid as the project grows.
 
 ## 🟢 Status
 
-Open to **Frontend / React opportunities**
+Open to work / freelance / collaboration 
 
 ---
 
