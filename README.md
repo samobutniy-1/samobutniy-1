@@ -1,4 +1,4 @@
-# 🦉 Nikita Terentiev (webOwl)
+# Nikita Terentiev (webOwl)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;I+build+interfaces+that+scale;React+%7C+Tailwind+%7C+SCSS;Clean+Code.+Real+Products.&center=true&width=560&height=45">
