@@ -1,24 +1,24 @@
 # Nikita Terentiev (webOwl)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;I+build+interfaces+that+scale;React+%7C+Tailwind+%7C+SCSS;Clean+Code.+Real+Products.&center=true&width=560&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Angular+Developer;I+build+interfaces+that+scale;Angular+%7C+TypeScript+%7C+Tailwind;Clean+Code.+Real+Products.&center=true&width=560&height=45">
 </p>
 
 ---
 
-## ⚡ Frontend Developer
+## ⚡ Angular Developer
 
-I build **scalable, high-performance interfaces** with a strong focus on
-structure, clarity and long-term maintainability.
+Angular Developer based in Kraków, with 1.5 years of self-taught frontend development experience and a background in Cybersecurity.
 
-No overengineering. No chaos. Just systems that work.
+**Stack:** Angular 17+ (standalone components, signals), TypeScript, Tailwind CSS v4
+**Also used:** React, JavaScript, SCSS, Vite
 
 ---
 
 ## 🛠️ Core Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,scss,js,react,tailwind,git" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,react,js,tailwind,git,scss,vite" />
 </p>
 
 ---
@@ -32,16 +32,14 @@ No overengineering. No chaos. Just systems that work.
 
 ---
 
-## 🎯 Value
+## 🔍 What Sets Me Apart
 
-I turn ideas into **fast, maintainable and scalable interfaces**
-that stay solid as the project grows.
+Self-taught in 1.5 years — no bootcamp, no mentor, just consistent daily practice
+and a habit of finishing what I start.
 
----
-
-## 🟢 Status
-
-Open to work / freelance / collaboration 
+I don't just follow tutorials: I ship full products — AI integrations, real
+deployments, multi-language support — and dig into the "why" behind every
+pattern I use, not just the "how".
 
 ---
 
